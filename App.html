@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content= "width=device-width, initial-scale=1.0">
     <title>Buggy Website with Exercises</title>
-    <script src="C:\Users\Tondwani Craig\Desktop\Boxfusion Excercise\graduate-demo-project\script.js"></script> 
+    <script src="script.js"></script> <!-- Exercise 1: Ensure the script file exists and is correctly linked -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -111,10 +111,16 @@
     <footer>
         <p>Copyright 2025 &copy; All rights reserved</p>
 
-        <p>Contact us at: <span>email@domain.com</span></p> <!-- Exercise 15: Change span to a mailto link -->
+        <p>Contact us at: <a href="mailto:email@domain.com">email@domain.com</a></p>
+        
+<!-- Exercise 15: Change span to a mailto link -->
 
         <p><a href="#top">Back to top</a></p>  <!-- Exercise 16: Ensure anchor link works -->
     </footer>
     
+    <script>
+        console.log("Debugging message"); <!-- Exercise 17: Ensure script execution without errors -->
+        document.getElementById("nonExistent").innerText = "This will cause an error"; <!-- Exercise 18: Fix JavaScript error accessing non-existent element -->
+    </script>
 </body>
 </html>
