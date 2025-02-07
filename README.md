@@ -33,9 +33,6 @@ To see your changes in real-time, install the **Live Server** extension in Visua
 6. Select **Open with Live Server**.
 7. Your browser will open, and any changes you make will be automatically reloaded.
 
-## Submission
-
-Once all issues are resolved, submit your repository link for review.
 
 Happy debugging! 🚀
 
