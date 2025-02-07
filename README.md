@@ -1,7 +1,7 @@
 # Debugging Assignment
 
 ## Overview
-Welcome to the debugging exercise! Your task is to go through the provided HTML file, identify and fix the issues based on the comments, and document your progress using GitHub Issues.
+Welcome to the debugging exercise! Your task is to go through the provided HTML file, identify and fix the issues based on the comments, and track your progress using GitHub Project.
 
 ## Instructions
 
